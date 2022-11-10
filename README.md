@@ -4,7 +4,7 @@
 
 ### 💻 O projeto
 
-Neste projeto simples foi colocado em prática todos os fundamentos de posicionamento utilizado as propriedades do CSS, tais como: <strong>display grid</strong> e <strong>display flex</strong>.
+Neste projeto simples foi colocado em prática todos os fundamentos de posicionamento utilizando as propriedades do CSS, tais como: <strong>display grid</strong> e <strong>display flex</strong>.
 
 ### 🚀 Tecnologias
 
